@@ -1,2 +1,3 @@
 # hello-word
-First repository
+Hello there,
+Discovering the word
